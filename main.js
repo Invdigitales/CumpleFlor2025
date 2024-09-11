@@ -1,5 +1,4 @@
-
-let diaEvento = new Date('November 10, 2024 21:30:00').getTime();
+diaEvento = new Date('January 25, 2025 22:00:00').getTime();
 let boton = document.querySelector("#btn")
 
 
@@ -62,17 +61,18 @@ function diaEventoAhora () {
 
 
 
-boton.addEventListener("click", () => {
+
+
+  boton.addEventListener("click", () => {
 
     Swal.fire({
       title: '<strong>VER LA UBICACION<u></u></strong>',
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3151.003356993401!2d-57.63775632411361!3d-37.83680727196983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDUwJzEyLjUiUyA1N8KwMzgnMDYuNyJX!5e0!3m2!1ses!2sar!4v1717711547688!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.8003428815637!2d-58.531778724878706!3d-34.71021546312938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccf3831da2b79%3A0xe6a2bf67a4350bd4!2sEl%20Alpataco%202275%2C%20Cdad.%20Evita%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1714953457153!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
     })
   });
-
