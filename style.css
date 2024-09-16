@@ -74,7 +74,7 @@ line-height: 1,5;
     .zapato{
       width: 75%;
       margin-left: 10%;
-      margin-top: -10%;
+      margin-top: -5%;
     }
     .preparate {
       font-family: 'Julius Sans One', sans-serif; ;
@@ -84,9 +84,51 @@ line-height: 1,5;
       text-align: center;
       margin-top: 10%;
       text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
-    
-  
-    }
      }
 
-   
+     .parrafo1 {
+      font-family: 'Julius Sans One', sans-serif; ;
+      font-size: 26px;
+      font-weight: bold;
+      color: #ffffff;
+      text-align: center;
+      margin-top: 10%;
+      text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
+     }
+     .parrafo2 {
+      font-family: 'Julius Sans One', sans-serif; ;
+      font-size: 22px;
+      font-weight: bold;
+      color: #ffffff;
+      text-align: center;
+      margin-top: 10%;
+      text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
+     }
+
+     .linea1{
+      color: #ffffff;
+    width: 45%;
+    margin-left: 29%;
+    }
+
+    .copas{
+        width: 18%;
+        margin-left: 40%;
+        margin-top: -3%;
+    }
+    .primary {
+      padding: 2px 10px;
+      margin-top: 5%;
+      font-size: 23px;
+      margin-left: 20%;
+      text-decoration: none;
+      color: #fdfcfc;
+      background-color: #000000;
+      border: 1px solid rgb(246, 152, 241);
+      box-shadow: inset 0 0 5px rgb(255, 137, 253), 0 0 10px rgb(255, 99, 232);
+      border-radius: 1px;
+      text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(71, 71, 71), 0 0 30px rgb(73, 73, 73), 0 0 50px rgb(254, 254, 254);
+      font-family:'Julius Sans One', sans-serif; 
+      font-weight: bold;
+    }
+     }
