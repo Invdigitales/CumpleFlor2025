@@ -145,7 +145,15 @@ line-height: 1,5;
     margin-top: 10%;
     text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
    }
-
+   .parrafo10 {
+    font-family: 'Julius Sans One', sans-serif; ;
+    font-size: 21px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20%;
+    text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
+   }
    .click_3{
     padding: 2px 10px;
     margin-top: 5%;
@@ -176,6 +184,11 @@ line-height: 1,5;
     width: 20%;
       margin-left: 25%;
       margin-top: 5%;
+   }
+   .corazon2{
+    width: 23%;
+      margin-left: 39%;
+      margin-top: -5%;
    }
    .percha{
     width: 30%;
