@@ -185,6 +185,16 @@ line-height: 1,5;
       margin-left: 25%;
       margin-top: 5%;
    }
+ .actual-text{
+  font-family: 'Julius Sans One', sans-serif; ;
+    font-size: 21px;
+    font-weight: bold;
+    color: #ffffff;
+   margin-left: 30%;
+    margin-top: -35%;
+    text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
+   } 
+ }
    .corazon2{
     width: 23%;
       margin-left: 39%;
@@ -197,7 +207,7 @@ line-height: 1,5;
    }
    
   .arrow {
-    margin-top: 5%;
+    margin-top: -35%;
     display: block;
     width: 16px;
     height: 16px;
@@ -236,7 +246,7 @@ line-height: 1,5;
     width: 40%;
     height: 20px;
     margin-left: 30%;
-    margin-top: -40%;
+    margin-top: 10%;
     background: rgb(182, 8, 179);
     color: #ffffff;
     
@@ -246,11 +256,10 @@ color: #ffffff;
 font-family: 'Julius Sans One', sans-serif; ;
 font-size: 13px;
 text-align: center;
-margin-top: 5%;
+margin-top: 20%;
 font-weight: 600;
 }
 .foto{
   width: 100%
 }
 
-     }
